@@ -1,0 +1,6 @@
+= Cateorías
+
+Una categoría es un conjunto de "objetos" y "flechas". En programación podemos pensar en los objetos como en las entradas de las funciones y las flechas como las funciones. Para que un conjunto de objetos y flechas se pueda considerar una categoría se deben cumplir tres condiciones:
+
+. Las relaciones son transitivas: si existen A->B y B->C, existe A->C
+. Existe siempre A->A (flecha identidad)
